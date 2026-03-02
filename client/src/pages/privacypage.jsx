@@ -13,7 +13,7 @@ const PrivacyPolicy = () => {
           Privacy Policy
         </h1>
         <p className="text-white text-sm font-lato">
-          Last updated: August 27, 2024 This Privacy Policy describes Our
+          Last updated: Oct 11, 2024 This Privacy Policy describes Our
           policies and procedures on the collection, use and disclosure of Your
           information when You use the Service and tells You about Your privacy
           rights and how the law protects You. We use Your Personal data to
@@ -92,8 +92,7 @@ const PrivacyPolicy = () => {
         <p className="text-white text-sm font-lato">
           While using Our Service, We may ask You to provide Us with certain
           personally identifiable information that can be used to contact or
-          identify You. Personally identifiable information may include, but is
-          not limited to: Usage Data
+          identify You. Personally identifiable information may include
         </p>
         <h3 className="text-white text-left text-md font-montserrat mt-5 mb-1">
           Usage Data

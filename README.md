@@ -2,13 +2,13 @@
 
 Meify, Wrapped Story.
 
-- **Easy To Use:** Funify built to fullfilled the User Experience without.... Developer Experience😭
-- **Playlist To Story:** Now you can show off how your music taste is😍.... to your bully (make them scared)
-- **No Ads:** We don't never make this software to make any profit, this project totally for our portofolio adn just 4 fun! .
+- **Playlist To Story:** Now you can show off how your music taste is😍
+- **Easy To Use:** Meify built to fullfilled the User Experience.
+- **No Ads:** This project totally for my portofolio and just 4 fun! 23
 
 ## Installation🚀
 
-Meify has been designed for "Easy To Use" from the start.
+Meify has been designed for "Easy To Use" And "Flexible".
 
 - Use [Quick Start](https://youtube.com) to get a start using this software.
 
@@ -18,17 +18,12 @@ Meify documentation in [Development...🏡](https://youtube.com/).
 
 Check out the [Getting Started](https://meify.vercel.app) page for a quick overview.
 
-You can improve it by sending pull requests to [this repository](https://github.com/Pashyaaaa/meify).
-
 ## Contributing
 
 The main purpose of this repository is to make new inovation in music industry, and make spotify wider. Development of Spotifly happens in the open on GitHub, and we are grateful to the community for contributing bugfixes and improvements.
+[Pull Request Here](https://github.com/Pashyaaaa/meify)
 [Donate Here](https://saweria.co/Vyanz)
 
 ### Credit
 
 Shout out to SPOTIFY [[Click Here To Open Spotify]](https://open.spotify.com).
-
-### License
-
-Meify is NOT in [any licensed](./LICENSE).

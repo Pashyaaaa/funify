@@ -14,6 +14,7 @@ const Modal = ({
     default:
       "p-6 mx-auto bg-white rounded-lg shadow-md max-h-[80vh] overflow-y-auto ",
     wide: "p-6 mx-auto bg-white rounded-lg shadow-md max-h-[80vh] overflow-y-auto ",
+    large: "p-12 mx-auto bg-white rounded-lg shadow-md max-h-[95vh] overflow-y-auto "
   };
 
   return (
