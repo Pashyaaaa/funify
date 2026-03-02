@@ -4,7 +4,7 @@ import * as React from "react";
 import { AnimatePresence } from "framer-motion";
 import { useLocation, useRoutes } from "react-router-dom";
 import ErrorPage from "./pages/error";
-import PrivacyPolicy from "./pages/privacypolicy";
+import PrivacyPolicy from "./pages/privacypage";
 import Index from "./pages";
 
 export default function App() {

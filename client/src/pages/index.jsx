@@ -11,6 +11,7 @@ import ShareButton from "../components/ShareButton";
 import { motion, useIsPresent, useScroll, useSpring } from "framer-motion";
 import Navbar from "../components/Navbar";
 import MotionTemplate from "../components/MotionTemplate";
+import Char from "../components/Char";
 
 const Index = () => {
   const {
@@ -356,9 +357,10 @@ const Index = () => {
             </div>
           </main>
 
-          <div className="bg-slate-700 flex justify-center items-center h-screen">
+          <Char></Char>
+          {/* <div className="bg-slate-700 flex justify-center items-center h-screen">
             <h1 className="text-white font-montserrat">NEXT FEATURE HERE</h1>
-          </div>
+          </div> */}
           <motion.div
             className="progress-bar fixed bottom-0 left-0 right-0 h-2 origin-center bg-green-500 z-10"
             style={{ scaleX }}

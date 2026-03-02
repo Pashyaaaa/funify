@@ -7,7 +7,7 @@ export const useSpotifyAuth = () => {
   const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize";
   const SCOPE =
     "user-library-read%20playlist-read-private%20user-read-currently-playing%20user-top-read";
-  const RESPONSE_TYPE = "token";
+  const RESPONSE_TYPE = "code";
 
   const [token, setToken] = useState("");
   const [error, setError] = useState("");
